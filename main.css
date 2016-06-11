@@ -1,0 +1,32 @@
+#skin{
+	border:3px dashed steelblue;
+	border-radius: 10px;
+	width:700px;
+	margin: 50px auto;
+	padding: 10px ;
+	text-align: center;
+}
+nav{
+	/*border:1px solid red;*/
+	margin: 10px;
+	
+}
+
+#buttons{
+	float:left;
+	height:20px;
+	width:70px;
+}
+
+#defaultBar{
+	border:1px solid steelblue;
+	height:16px;
+	width:590px;
+	float: left;
+	padding: 2px;
+}
+#progressBar{
+	height:16px;
+	width:0px;
+	background: steelblue;
+}
